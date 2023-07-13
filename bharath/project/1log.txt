@@ -1,0 +1,8 @@
+A warning message is a message output when the Message Queue Java client runtime experiences a problem
+that should not occur under normal operating conditions. The message is displayed where the application
+displays its output. Usually, this is the window from which the application is started.
+Table A-1 lists Message Queue warning messages.
+
+In general, a warning message does not cause message loss or affect reliability.issues.
+But when warning messages appear constantly on the application's console,
+the user should contact Message Queue technical support to diagnose the cause of the warning messages.
